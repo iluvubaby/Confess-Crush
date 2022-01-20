@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    titleWeb: "My baby girl:33",
+    introTitle: 'Stupid Row',
+    introDesc: `Girls who talks sh*t about you, just want to be fancy
+    F*ck the small cozy cabin,
+    you deserve a castle<3.
+    You said you're still young...But you still let me 'come' inside you=)))`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
+    title: 'Who else but me:v i bet you couldnt find another like this 🥰',
+    desc: 'I just want your legs on my shoulder:> ',
+    btnYes: 'i want too:))',
+    btnNo: 'N-no im shy(click this)',
+    question: 'Why do you love me?:3',
+    btnReply: 'send it to my boii <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
+    mess: 'i know u love me 🥰. luv you too mwaaa 😘😘',
+    messDesc: 'dont let yourself get hurt pls:<<.',
+    btnAccept: 'Okiiiii mwa mwa <3',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
