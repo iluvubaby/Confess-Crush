@@ -16,5 +16,4 @@ const CONFIG = {
     mess: 'i know u gonna say this 🥰. love u too mwa mwa 😘😘',
     messDesc: 'Dont let yourself get hurt anymore:<<.',
     btnAccept: 'Okiiiii bae <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
-}
+    
